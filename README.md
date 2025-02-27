@@ -4,6 +4,7 @@
 
 **1. Web Basics**
       [Hashnode Link](https://web-basics.hashnode.dev/web-basics)
+
 **2. DNS Server**
       [Hashnode Link](https://dns-internal.hashnode.dev/dns-magic-and-internals)
 **3. HTML Skeleton**
