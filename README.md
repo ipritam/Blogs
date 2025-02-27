@@ -1,3 +1,3 @@
 # Blogs
 
-# In this I upload technical blogs.
+# In this repository I upload technical blogs.
