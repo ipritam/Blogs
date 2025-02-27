@@ -3,10 +3,10 @@
 # In this repository I upload technical blogs.
 
 **1. Web Basics**
-      [Hashnode Link](https://web-basics.hashnode.dev/web-basics)
+      [Link](https://web-basics.hashnode.dev/web-basics)
 
 **2. DNS Server**
-      [Hashnode Link](https://dns-internal.hashnode.dev/dns-magic-and-internals)
+      [Link](https://dns-internal.hashnode.dev/dns-magic-and-internals)
 
 **3. HTML Skeleton**
       [All About HTML](https://html-skeleton.hashnode.dev/html-basics-the-web-skeleton)
